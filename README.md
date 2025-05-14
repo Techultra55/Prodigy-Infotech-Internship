@@ -1,2 +1,2 @@
-# practicle_repo
-hello this is shubhang rege and this is practicle repo.
+# INRENSHIP-REPO
+Hello, This is a complete repo for all projects under intership for prodigy infotech.
